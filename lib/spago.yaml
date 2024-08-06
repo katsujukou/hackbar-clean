@@ -1,0 +1,8 @@
+package:
+  name: hackbar-clean
+  dependencies:
+    - aff-promise
+    - console
+    - effect
+    - prelude
+    - profunctor-lenses
