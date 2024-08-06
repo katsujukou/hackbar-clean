@@ -1,0 +1,9 @@
+package:
+  name: web
+  dependencies:
+    - affjax
+    - affjax-web
+    - hackbar-clean
+    - halogen
+    - halogen-helix
+    - halogen-hooks
