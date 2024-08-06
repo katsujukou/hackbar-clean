@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "exec": "cd .. && spago build -p server && vite-node server/index.dev.js"
+  },
+  "dependencies": {
+    "@seald-io/nedb": "^4.0.4"
+  },
+  "devDependencies": {
+    "vite-node": "^2.0.3"
+  }
+}

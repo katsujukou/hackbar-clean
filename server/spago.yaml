@@ -1,0 +1,7 @@
+package:
+  name: server
+  dependencies:
+    - hackbar-clean
+    - httpurple
+    - routing-duplex
+    - simple-json
